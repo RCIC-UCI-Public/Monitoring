@@ -31,8 +31,8 @@ memory_complex_value = "h_rss"
 INFLUXDB_SERVER = "192.5.19.66"
 INFLUXDB_PORT = 8086
 INFLUXDB_DBNAME = 'sge'
-INFLUXDB_USER = 'moni'
-INFLUXDB_PASSWD = 'moni_admin'
+INFLUXDB_USER = ''
+INFLUXDB_PASSWD = ''
 
 def main():
 
